@@ -1,0 +1,18 @@
+# 👋 Hi, I'm Owais Ahmed
+
+🎓 AI Undergraduate | 💻 MERN Stack Developer | 🤖 Exploring Machine Learning & Neural Networks  
+
+## 🧠 About Me  
+- 🔬 Currently studying Artificial Intelligence  
+- 💡 Interested in Deep Learning & ANN  
+- 🌐 Building projects with the MERN Stack  
+- 📚 Always learning new technologies  
+
+## 🛠️ Tech Stack  
+Frontend: React, Tailwind, JavaScript  
+Backend: Node.js, Express.js, Nestjs 
+Database: MongoDB , mysql 
+AI/ML: Python, scipy, scikit-learn   
+
+## 📫 Connect  
+[LinkedIn](https://www.linkedin.com/in/owais-ahmed-86b534301) | [Portfolio](https://portfolio-mw6r.vercel.app/)
