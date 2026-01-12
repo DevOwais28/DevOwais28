@@ -35,7 +35,8 @@ Python       ▓▓▓▓▓▓▓▓▓░ 85%
 scikit-learn ▓▓▓▓▓▓▓▓░░ 80%  
 scipy        ▓▓▓▓▓▓▓░░░ 70%
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOwais28&layout=compact&theme=dark)
+### 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOwais28&layout=compact&theme=github_dark&hide_border=true)
 
 ## 📫 Connect  
 [LinkedIn](https://www.linkedin.com/in/owais-ahmed-86b534301) | [Portfolio](https://portfolio-mw6r.vercel.app/)
