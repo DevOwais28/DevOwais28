@@ -39,4 +39,4 @@ scipy        ▓▓▓▓▓▓▓░░░ 70%
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevOwais28&theme=github_dark)
 
 ## 📫 Connect  
-[LinkedIn](https://www.linkedin.com/in/owais-ahmed-86b534301) | [Portfolio](https://portfolio-mw6r.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/owais-ahmed-86b534301) | [Portfolio](https://portfolio-mw6r.vercel.app/](https://dev-owais-portfolio.vercel.app/)
